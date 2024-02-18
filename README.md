@@ -46,6 +46,8 @@ I hope it is now very clear why containers are lightweight.
 
 
 **Docker**
+
+
 What is Docker?
 Docker is a containerization platform that provides an easy way to containerize your applications, which means, using Docker you can build container images, run the images to create containers, and also push these containers to container regestries such as Docker Hub, Quay.io, and so on.
 In simple words, you can understand that containerization is a concept or technology, and Docker Implements Containerization.

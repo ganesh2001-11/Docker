@@ -68,7 +68,7 @@ There are three important things,
 ![image](https://github.com/ganesh2001-11/Docker/assets/99542143/cca2ee12-af61-4f98-ab9c-6363eaab8e4b)
 
 
-**Understanding the terminology (Inspired by Docker Docs)
+**Understanding the terminology (Inspired by Docker Docs)**
 
 **Docker daemon**
 The Docker daemon (dockerd) listens for Docker API requests and manages Docker objects such as images, containers, networks, and volumes. A daemon can also communicate with other daemons to manage Docker services.
